@@ -6,7 +6,7 @@ Angular project of the netflix clone
 - Real-time Movie Info
 - Search Movie
 - Real-time Trending Movies
-- View Movie Genres
+- Display Movie Based On Genres
 
 ## Usage
 ### Prerequisites
